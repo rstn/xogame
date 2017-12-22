@@ -11,6 +11,10 @@ public class GameEngine implements Engine {
 
     private Board board;
 
+    /**
+     * Инициализация движка (создание модели игрового поля)
+     * @param boardSize размер игрового поля
+     */
     public GameEngine(int boardSize) {
 
     }
