@@ -15,5 +15,5 @@ public enum FieldLabel {
     /**
      * Пустая ячейка игрового поля
      */
-    Empty
+    EMPTY
 }
